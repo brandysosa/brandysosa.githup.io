@@ -1,0 +1,13 @@
+#cuerpo{
+    display: inline-block;
+    text-align: center;
+    font-style: italic;
+}
+#text{
+     text-align: center;
+    color: burlywood;
+}
+#texto{
+    text-align: center;
+    color:burlywood;
+}

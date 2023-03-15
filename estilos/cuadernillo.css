@@ -1,0 +1,19 @@
+cuerpo{
+    display: inline-block;
+    text-align: center;
+    font-style: italic;
+}
+#text{
+     text-align: center;
+    color: burlywood;
+    font-style: italic;
+}
+#texto{
+    text-align: center;
+    color:burlywood;
+    font-style: italic;
+}
+#lista{
+    text-align: center;
+    font-style: italic;
+}
